@@ -8,4 +8,11 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="ok">Ok</string>
+    <string name="first_human">First Human</string>
+    <string name="first_android">First Android</string>
+    <string name="turn_human">Turn Human</string>
+    <string name="turn_computer">Turn Computer</string>
+    <string name="result_tie">Result Tie</string>
+    <string name="result_human_wins">Result human win</string>
+    <string name="result_computer_wins">Result computer win</string>
 </resources>
